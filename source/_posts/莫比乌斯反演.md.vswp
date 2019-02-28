@@ -1,3 +1,4 @@
+vnote_backup_file_826537664 /home/endsah/hexo_blog/source/_posts/莫比乌斯反演.md
 ---
 title: 莫比乌斯反演
 tags: 数论
@@ -159,8 +160,8 @@ $$
 
 $$
 \sum_{d|n} \mu(d) = \begin{cases}
-    1, & n = 1 \\\\
-    0, & n > 1
+    1, & d = 1 \\\\
+    0, & d > 1
 \end{cases}
 $$
 
