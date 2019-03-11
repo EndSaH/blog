@@ -206,7 +206,7 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  GCCCCCCCCC: https://gongchen618.github.io
+  GCCCCCCCCC: https://gccccccc.gitee.io/blog/
   MuQiuFeng: https://muqzzz.cf
   LuoShuiTianYi: https://cnblogs.com/luoshuitianyi
   hk-cnyali: https://hk-cnyali.com/
@@ -418,14 +418,14 @@ font:
   # Global font settings used for all elements in <body>.
   global:
     external: true
-    family: Lato
+    family: Monospace
     size:
 
   # Font settings for Headlines (H1, H2, H3, H4, H5, H6).
   # Fallback to `global` font settings.
   headings:
     external: true
-    family: Courier
+    family: Monospace
     size:
 
   # Font settings for posts.
@@ -870,7 +870,7 @@ pace_theme: pace-theme-flash
 # Dependencies: https://github.com/theme-next/theme-next-canvas-nest
 canvas_nest:
   enable: true
-  onmobile: true # display on mobile or not
+  onmobile: false # display on mobile or not
   color: '0,0,255' # RGB values, use ',' to separate
   opacity: 0.5 # the opacity of line: 0~1
   zIndex: -1 # z-index property of the background
