@@ -20,7 +20,7 @@ date: 2019-03-24 18:56:27
 ## 多项式乘法本质
 
 $$
-C_i = \sum _{j = 0} ^i A_j B_{i - j}
+C _i = \sum _{j = 0} ^i A _j B _{i - j}
 $$
 
 其中 $A, B, C$ 表示多项式的系数集合，$i$ 表示为第 $i$ 次项。
@@ -135,8 +135,8 @@ curr[i + m] = curr[i] - tmp, curr[i] += tmp;
 $$  
 \begin{aligned}
 t &\gets \omega _n ^k \times a _{k + \frac n 2} \\\\
-a _{k + \frac n 2} &\gets a _k - t \\\\
-a _k &\gets a _k + t
+a _{k + \frac n 2} &\gets a_k - t \\\\
+a _k &\gets a_k + t
 \end{aligned}
 $$
 
@@ -280,9 +280,9 @@ $$
 
 （$j - 1$ 变为 $j$ 是为了形式变得和多项式乘法一样，实际上 $j = i$ 时因 $g_0 = 0$ 不会对答案产生贡献~~才不是我打错了~~）
 
-回忆下开头说的多项式乘法本质，可以发现减号前面的式子就是卷积形式了（$i$ 可以从 $0$ 开始，没有影响）；至于后面，可以用一张图来感性理解：
+回忆下开头说的多项式乘法本质，可以发现减号前面的式子就是卷积形式了；至于后面，可以用一张图来感性理解：
 
-![来自GoldenPotato dalao的博客](https://cdn.luogu.org/upload/pic/48846.png)]
+![来自GoldenPotato dalao的博客](https://cdn.luogu.org/upload/pic/48846.png)
 
 （来自[GoldenPotato dalao的博客](https://www.cnblogs.com/GoldenPotato/p/10288217.html)）
 
