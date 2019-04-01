@@ -61,7 +61,7 @@ $$
 
 # 过程图
 
-![](https://images2017.cnblogs.com/blog/1101696/201802/1101696-20180211213536607-322408834.png)
+![](https://ws1.sinaimg.cn/large/006Ftn1Tgy1g1mujanv8zj30ix07q75w.jpg)
 
 （其中求值和插值朴素算法均为 $\mathcal O(n^2)$，用 $\text{FFT}$ 优化后为 $\mathcal O(n \log n)$）
 
@@ -282,7 +282,7 @@ $$
 
 回忆下开头说的多项式乘法本质，可以发现减号前面的式子就是卷积形式了；至于后面，可以用一张图来感性理解：
 
-![来自GoldenPotato dalao的博客](https://cdn.luogu.org/upload/pic/48846.png)
+![来自GoldenPotato dalao的博客](https://s2.ax1x.com/2019/04/01/As9wLQ.md.jpg)
 
 （来自[GoldenPotato dalao的博客](https://www.cnblogs.com/GoldenPotato/p/10288217.html)）
 
