@@ -13,6 +13,6 @@ QQ: 2499808100
 
 gmail: hjxhb1@gmail.com
 
-luogu: [HNYLMS_EndSaH](https://www.luogu.org/space/show?uid=91252)
+luogu: [EndSaH](https://www.luogu.org/space/show?uid=91252)
 
 > 生人之初，皆如玉璞。集腋成裘，自修自正，戒骄戒躁，透人心，忍愤懑，笃己志，方为人上人。
